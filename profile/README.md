@@ -4,3 +4,5 @@
 - [Programación Aplicada](https://github.com/JoseAndresHV-UPSA/progra-aplicada-si220)
 - [Bases de Datos](https://github.com/JoseAndresHV-UPSA/base-datos-si314)
 - [Estructura de Datos Avanzadas](https://github.com/JoseAndresHV-UPSA/estructuras-avanzadas-si310)
+- [Desarrollo de Aplicaciones Web](https://github.com/JoseAndresHV-UPSA/desarrollo-web-si416)
+- [Computacion Móvil y Ubicua](https://github.com/JoseAndresHV-UPSA/computacion-movil-ubicua-si410)
