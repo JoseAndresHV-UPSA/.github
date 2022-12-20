@@ -6,3 +6,5 @@
 - [Estructura de Datos Avanzadas](https://github.com/JoseAndresHV-UPSA/estructuras-avanzadas-si310)
 - [Desarrollo de Aplicaciones Web](https://github.com/JoseAndresHV-UPSA/desarrollo-web-si416)
 - [Computacion Móvil y Ubicua](https://github.com/JoseAndresHV-UPSA/computacion-movil-ubicua-si410)
+- [Gestion de Bases de Datos](https://github.com/JoseAndresHV-UPSA/gestion-bases-datos-si424)
+- [Ingenieria de Calidad y Pruebas](https://github.com/JoseAndresHV-UPSA/calidad-pruebas-si422)
